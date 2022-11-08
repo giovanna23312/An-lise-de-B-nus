@@ -1,0 +1,1 @@
+Lista_meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho']
